@@ -1,0 +1,1 @@
+ka59   levels 0/7  actions   2001  score   0.00   29.8s  [(2001, 28, 0.0)]

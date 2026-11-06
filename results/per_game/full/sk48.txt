@@ -1,0 +1,1 @@
+sk48   levels 0/8  actions   2001  score   0.00   70.3s  [(2001, 61, 0.0)]

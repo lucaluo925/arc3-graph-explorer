@@ -1,0 +1,1 @@
+cn04   levels 0/6  actions   2001  score   0.00   14.5s  [(2001, 29, 0.0)]

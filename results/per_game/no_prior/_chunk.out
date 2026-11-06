@@ -1,0 +1,13 @@
+re86   levels 0/8  actions   2001  score   0.00    7.1s  [(2001, 26, 0.0)]
+s5i5   levels 1/8  actions   2001  score   0.00    7.9s  [(1886, 20, 0.0), (115, 89, 0.0)]
+sb26   levels 0/8  actions   2001  score   0.00   83.0s  [(2001, 18, 0.0)]
+sc25   levels 0/6  actions   2001  score   0.00   54.8s  [(2001, 36, 0.0)]
+sk48   levels 0/8  actions   2001  score   0.00   65.1s  [(2001, 61, 0.0)]
+sp80   levels 1/6  actions   2001  score   0.04   31.4s  [(442, 39, 0.8), (1559, 58, 0.0)]
+su15   levels 1/9  actions   2001  score   0.00   30.9s  [(551, 22, 0.2), (1450, 42, 0.0)]
+tn36   levels 1/7  actions   2001  score   1.41   12.7s  [(51, 32, 39.4), (1950, 72, 0.0)]
+tr87   levels 0/6  actions   2001  score   0.00    5.0s  [(2001, 54, 0.0)]
+tu93   levels 2/9  actions   2001  score   0.04    8.7s  [(288, 19, 0.4), (196, 16, 0.7), (1517, 34, 0.0)]
+vc33   levels 2/7  actions   2001  score   0.08    4.6s  [(49, 7, 2.0), (624, 18, 0.1), (1328, 44, 0.0)]
+wa30   levels 0/9  actions   2001  score   0.00    2.3s  [(2001, 71, 0.0)]
+MEAN SCORE 0.130  levels 8/91

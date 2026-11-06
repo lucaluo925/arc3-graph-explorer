@@ -1,0 +1,1 @@
+g50t   levels 0/7  actions   2001  score   0.00    5.6s  [(2001, 78, 0.0)]

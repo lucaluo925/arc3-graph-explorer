@@ -1,0 +1,1 @@
+lf52   levels 0/10  actions   2001  score   0.00   22.5s  [(2001, 32, 0.0)]
